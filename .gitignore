@@ -1,0 +1,28 @@
+# Built project files
+*.sln
+*.opensdf
+*.sdf
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+# Binaries
+Binaries/
+Build/
+
+# Precompiled assets
+DerivedDataCache/
+
+# Config and saved files
+Saved/
+Intermediate/
+
+# Debug files
+*.log
+*.dgsl
+
+# Project specific
+*.vsconfig
+
+# Optional: Keep only specific source directories
+# !Source/MyGame/
